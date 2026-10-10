@@ -15,4 +15,4 @@ Ich habe Screenshots von meiner Arbeit. Das ganze Projekt läuft auf Proxmox. Pr
 
 Technologien: Linux (Ubuntu), DHCP, Routing, ntopng, Proxmox, Docker, nftables
 
-Autor: Ayaz Suleimanow
+Autor: Ayaz Suleimanov
